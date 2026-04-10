@@ -8,7 +8,7 @@
 // @run-at       document-start
 // ==/UserScript==
 (function () {
-  const OLD_TEXT = '289798'
+  const OLD_TEXT = '9999'   // 改成你自己ID
   const NEW_TEXT = '114514'
 
   function rewriteBackgroundImage(style) {
